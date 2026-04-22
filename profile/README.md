@@ -1,134 +1,109 @@
 # edgar-sec-dev-team
 
-
 ---
 
 ## Overview
+
+The **edgar-sec-dev-team** is a research-oriented engineering group focused on building high-quality, open-source infrastructure for financial data acquisition, transformation, and analysis.
+
+The organization’s primary objective is to develop **reliable, reproducible, and model-ready data systems** for working with U.S. Securities and Exchange Commission (SEC) EDGAR filings. This includes tooling for structured data extraction, XBRL parsing, and the reconstruction of consistent financial time series across filings, companies, and reporting regimes.
+
+The flagship project, **edgar-sec**, is designed as a modular Python toolkit that abstracts the complexity of EDGAR’s raw data formats and provides a clean, extensible interface for researchers, developers, and quantitative analysts. The system emphasizes:
+
+* Deterministic data pipelines and reproducibility
+* Robust API and SDK design
+* Cross-filing normalization and entity resolution
+* Time-series reconstruction from financial disclosures
+* Integration with modern data workflows (pandas, polars, dask)
+
+The broader development philosophy aligns with **research-grade software engineering**, combining principles from econometrics, machine learning, and systems design to produce tools suitable for both academic research and production-grade analytics.
+
+In parallel with edgar-sec, the team develops complementary infrastructure such as fedfred, which provides access to macroeconomic data from FRED/ALFRED/GeoFRED/FRASER. Together, these tools form a unified ecosystem for macro–micro financial data integration, enabling end-to-end workflows from raw data ingestion to model-ready datasets.
 
 ---
 
 ## Projects
 
----
+[![fedfred](https://github-readme-stats.vercel.app/api/pin/?username=edgar-sec-dev-team&repo=edgar-sec)](https://github.com/edgar-sec-dev-team/edgar-sec)
 
 ---
 
-## Developer Profiles
+## Developers
 
 ### Nikhil Sunder
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQGj5eJbCqfdkg/profile-displayphoto-scale_400_400/B4EZx3qDoLIkAg-/0/1771534042442?e=1778716800&v=beta&t=NOdAV_5NuKvTocFfgn7-8Tke9GLdMYcBzzN0XWjUBb4" width="150" alt="Profile Photo">\
+**Undergraduate Researcher @ The University of Miami, Herbert Business School**
 
 - **Role:**  
-  Founder / Lead Developer
+  Founder & Lead Developer
 
 - **Focus:**
+  Data Engineering, Design & Architecture
 
-- **Education:**  
-  BSBA Quantitative Economics, BSBA Finance (Minor in Mathematics) — University of Miami Herbert Business School  
-  Undergraduate Research Fellow — Intelligent Computer Systems Research Institute (ICSRI) @ University of Miami Herbert Business School
+- **Education & Experience:**  
+  - BSBA Quantitative Economics, BSBA Finance (Minor in Mathematics) — University of Miami Herbert Business School  
+  - Research Fellow — Intelligent Computer Systems Research Institute (ICSRI) @ University of Miami Herbert Business School
 
 - **Featured Work:**  
-  - `fedfred` — Research-grade Python client for FRED/ALFRED/GeoFRED/FRASER with strict API contracts, sync/async parity, and reproducible data pipelines.
+  - [`fedfred`](https://github.com/nikhilxsunder/fedfred) — A feature-rich python package for interacting with the Federal Reserve Bank of St. Louis Economic Database: FRED.
 
-- **ORCID / Research:**  
+- **Research:**  
   - ORCID: https://orcid.org/0009-0007-3323-1760
-  - Research Areas:
-
-  - Active Work:
-
-- **Background:**
-
-- **Areas of Interest / Experience:**
 
 ---
 
 ### John Bernardin
+<img src="https://media.licdn.com/dms/image/v2/C4E03AQEmMG59m-syzQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1651668154585?e=1778716800&v=beta&t=YzupaZqCNEdjDzl9_4fHdWqbgx5FVnjT8yT9rK-YD4Y" width="150" alt="Profile Photo">\
+Generative AI Engineer @ Air Products
 
 - **Role:**  
-  [Primary role within the organization]
+  Developer & Researcher
 
 - **Focus:**  
-  [Core technical or research focus areas]
+  Machine learning & Data Engineering
 
-- **Education:**  
-  [Degree(s), field(s), institution(s)]
-
-- **Featured Work:**  
-  - [Project / repository name] — [brief description]
-  - [Project / paper / system] — [brief description]
-
-- **ORCID / Research:**  
-  - ORCID: [link or ID]
-  - Publications / Papers: [links if applicable]
-
-- **Background:**  
-  [Concise narrative of technical, academic, or professional background]
-
-- **Areas of Interest / Experience:**  
-  - [Area 1]
-  - [Area 2]
-  - [Area 3]
+- **Education & Experience:**   
+  - MS Artificial Intelligence and Innovation - Carnegie Mellon University
+  - BS Applied Mathematics, BS Computer Science - Temple University
+  - Research Assistant - Human-Computer Interaction Lab (HCI) @ Temple University
+  - Generative AI Engineer - Air Products
+  - AI Engineer - PS Technology
 
 ---
 
 ### Rayhan Rahman
+<img src="https://media.licdn.com/dms/image/v2/C4D03AQEQyQwQTkS8uQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1611510883839?e=1778716800&v=beta&t=fmEAY_ZVOc0w2xFLXpA4ovEzihK9Zdh9H3JGtnijOL8" width="150" alt="Profile Photo">\
+Software Engineer II @ Vanguard
 
 - **Role:**  
-  [Primary role within the organization]
+  Developer & Researcher
 
 - **Focus:**  
-  [Core technical or research focus areas]
+  API Design & Development
 
-- **Education:**  
-  [Degree(s), field(s), institution(s)]
-
-- **Featured Work:**  
-  - [Project / repository name] — [brief description]
-  - [Project / paper / system] — [brief description]
-
-- **ORCID / Research:**  
-  - ORCID: [link or ID]
-  - Publications / Papers: [links if applicable]
-
-- **Background:**  
-  [Concise narrative of technical, academic, or professional background]
-
-- **Areas of Interest / Experience:**  
-  - [Area 1]
-  - [Area 2]
-  - [Area 3]
+- **Education & Experience:**  
+  - BS Computer Engineering (Minor in Economics) - Penn State Schreyer Honors College
+  - AWS Certified Cloud Practicioner - Amazon Web Services
 
 ---
 
 ### Jake Schultz
+Undergraduate Student @ Penn State
 
 - **Role:**  
-  [Primary role within the organization]
+  Developer & Maintainer
 
 - **Focus:**  
-  [Core technical or research focus areas]
+  Cyber Security, Documentation & Analytics
 
-- **Education:**  
-  [Degree(s), field(s), institution(s)]
-
-- **Featured Work:**  
-  - [Project / repository name] — [brief description]
-  - [Project / paper / system] — [brief description]
-
-- **ORCID / Research:**  
-  - ORCID: [link or ID]
-  - Publications / Papers: [links if applicable]
-
-- **Background:**  
-  [Concise narrative of technical, academic, or professional background]
-
-- **Areas of Interest / Experience:**  
-  - [Area 1]
-  - [Area 2]
-  - [Area 3]
+- **Education & Experience:**
+  - BS Cyber/Electronic Operations & Warfare - Penn State
+  - Financial Management Resource Analyst - Marine Corps University
+  - Comptroller Chief - MCAS Iwakuni Comptroller's Officer
+  - Cyber Security Specialist - 3rd Network Batallion Det. Iwakuni
  
 ---
 
 ### Other work from our developers
 
-- **fedfred**  
-  FRED/ALFRED/GeoFRED/FRASER Python client focused on economic data workflows and reproducible research.
+[![fedfred](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=fedfred)](https://github.com/nikhilxsunder/fedfred)

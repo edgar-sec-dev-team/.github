@@ -24,7 +24,13 @@ In parallel with edgar-sec, the team develops complementary infrastructure such 
 
 ## Projects
 
-[![fedfred](https://github-readme-stats.vercel.app/api/pin/?username=edgar-sec-dev-team&repo=edgar-sec)](https://github.com/edgar-sec-dev-team/edgar-sec)
+[![edgar-sec](https://github-readme-stats.vercel.app/api/pin/?username=edgar-sec-dev-team&repo=edgar-sec)](https://github.com/edgar-sec-dev-team/edgar-sec)
+
+[![unnamed-package-alpha](https://github-readme-stats.vercel.app/api/pin/?username=edgar-sec-dev-team&repo=unnamed-package-alpha)](https://github.com/edgar-sec-dev-team/unnamed-package-alpha)
+
+[![unnamed-package-beta](https://github-readme-stats.vercel.app/api/pin/?username=edgar-sec-dev-team&repo=unnamed-package-beta)](https://github.com/edgar-sec-dev-team/unnamed-package-beta)
+
+[![unnamed-package-gamma](https://github-readme-stats.vercel.app/api/pin/?username=edgar-sec-dev-team&repo=unnamed-package-gamma)](https://github.com/edgar-sec-dev-team/unnamed-package-gamma)
 
 ---
 

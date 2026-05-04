@@ -56,7 +56,7 @@ In parallel with edgar-sec, the team develops complementary infrastructure such 
 
 ### John Bernardin
 <img src="https://media.licdn.com/dms/image/v2/C4E03AQEmMG59m-syzQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1651668154585?e=1778716800&v=beta&t=YzupaZqCNEdjDzl9_4fHdWqbgx5FVnjT8yT9rK-YD4Y" width="150" alt="Profile Photo">\
-Generative AI Engineer @ Air Products
+**Generative AI Engineer @ Air Products**
 
 - **Role:**  
   Developer & Researcher
@@ -75,7 +75,7 @@ Generative AI Engineer @ Air Products
 
 ### Rayhan Rahman
 <img src="https://media.licdn.com/dms/image/v2/C4D03AQEQyQwQTkS8uQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1611510883839?e=1778716800&v=beta&t=fmEAY_ZVOc0w2xFLXpA4ovEzihK9Zdh9H3JGtnijOL8" width="150" alt="Profile Photo">\
-Software Engineer II @ Vanguard
+**Software Engineer II @ Vanguard**
 
 - **Role:**  
   Developer & Researcher
@@ -90,7 +90,7 @@ Software Engineer II @ Vanguard
 ---
 
 ### Jake Schultz
-Undergraduate Student @ Penn State
+**Undergraduate Student @ Penn State**
 
 - **Role:**  
   Developer & Maintainer
